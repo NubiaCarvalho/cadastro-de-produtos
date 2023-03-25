@@ -11,15 +11,6 @@ npm  install react
 Agora eu vou escrever um código em HTML para testar:
 
 ```
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8"/>
-    <title>Sistema</title>
-   </head>
-   <body>
-     <p>Óla mundo!</p>
-    </body>
-   </html>
-   ```
+
+  
    
