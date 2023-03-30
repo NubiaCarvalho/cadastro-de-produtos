@@ -9,5 +9,5 @@ let numeros = [2,4,6,8,10]
      console.log(numero[i] + " é um, número par")
     } else { 
       console.log(numero[numero[i] + "é um numero ímpar");
-         } 
+        } 
   }                       
